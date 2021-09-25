@@ -44,7 +44,6 @@ data:text/html;charset=utf-8,
 //NOTEPAD BETTER
 
 data:text/html;charset=utf-8,
-<!DOCTYPE html>
 <html>
 <head> <title>My text editor</title>
 <style>
@@ -145,19 +144,3 @@ window.onfocus = function(){
   }
  }  
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
